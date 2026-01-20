@@ -77,7 +77,7 @@ def check_story_exists(auth, organization, project, title, assigned_to, iteratio
 pat = st.text_input("PAT de Azure DevOps", type="password")
 uploaded_file = st.file_uploader("Sube el archivo JSON de configuración de usuarios", type=["json"])
 
-with st.expander("Ver NUEVO formato del archivo JSON esperado (con vacaciones opcionales)"):
+with st.expander("Ver formato del archivo JSON esperado (con vacaciones opcionales)"):
     st.code("""
 [
   {
