@@ -95,7 +95,7 @@ with st.expander("Ver NUEVO formato del archivo JSON esperado (con vacaciones op
   {
     "email": "security.user@cleveritgroup.com", (Correo que aparece en Azure DevOps, es diferente al correo Clever)
     "profile": "Seguridad",
-    "description": "Descripción para el User Story. Ex: Asignación: Squad1 34%, Squad2 33%, Squad3 33%.,
+    "description": "Descripción para el User Story. Ex: Asignación: Squad1 34%, Squad2 33%, Squad3 33%.",
     "vacaciones": "21, 22, 26, 28" (Aqui vacaciones, Dias Libres o Beneficios, dejar vacio si no presenta ausencias programadas)
   }
 ]
