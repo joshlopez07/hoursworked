@@ -84,13 +84,13 @@ with st.expander("Ver NUEVO formato del archivo JSON esperado (con vacaciones op
     "email": "devops.user@cleveritgroup.com", (Correo que aparece en Azure DevOps, es diferente al correo Clever)
     "profile": "DevOps",
     "description": "Descripción para el User Story. Ex: Asignación: Squad1 34%, Squad2 33%, Squad3 33%.",
-    "vacaciones": "" (Aqui vacaciones, Dias Libres o Beneficios, dejar vacio si no presenta ausencias programadas)
+    "vacaciones": "10, 11, 12" (Aqui vacaciones, Dias Libres o Beneficios, dejar vacio si no presenta ausencias programadas)
   },
   {
     "email": "sre.user@cleveritgroup.com", (Correo que aparece en Azure DevOps, es diferente al correo Clever)
     "profile": "SRE",
     "description": "Descripción para el User Story. Ex: Asignación: Squad1 34%, Squad2 33%, Squad3 33%.",
-    "vacaciones":""
+    "vacaciones":"" (Aqui vacaciones, Dias Libres o Beneficios, dejar vacio si no presenta ausencias programadas)
   },
   {
     "email": "security.user@cleveritgroup.com", (Correo que aparece en Azure DevOps, es diferente al correo Clever)
